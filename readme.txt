@@ -1,4 +1,4 @@
-This was an assignment replicate how UDP Pinging Works.
+This was an assignment to replicate how UDP Pinging Works.
 
 In order to use this, please follow the following steps.
 
